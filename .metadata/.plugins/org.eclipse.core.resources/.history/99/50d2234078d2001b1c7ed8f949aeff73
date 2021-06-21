@@ -1,0 +1,12 @@
+package com.jsp.jdbcProject.module1;
+
+public class LedLight implements Iswitch {
+	   
+		public void on() {
+			System.out.println("LED light turned on");
+		}
+		
+		public void off() {
+			System.out.println("LED light turned off");
+		}
+	}

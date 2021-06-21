@@ -1,0 +1,6 @@
+package com.jsp.jdbcProject.zomato;
+
+public interface payment  {
+   
+	void upi();
+	void cod();}

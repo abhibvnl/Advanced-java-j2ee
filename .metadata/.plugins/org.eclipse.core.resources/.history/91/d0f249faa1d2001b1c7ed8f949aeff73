@@ -1,0 +1,14 @@
+package com.jsp.jdbcProject.zomato;
+
+import java.util.Scanner;
+
+public class foodFactory {
+   
+	public static food getFood(String food) {
+		
+		Scanner scan=new Scanner(System.in);
+		if(food.equalsIgnoreCase("biriyaani))
+		return new biriyaani();
+		else if(food.equalsIgnoreCase("biriyaani)
+	}
+}

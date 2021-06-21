@@ -1,0 +1,11 @@
+package com.jsp.jdbcProject.zomato;
+
+import java.util.Scanner;
+
+public class foodFactory {
+   
+	public static food getFood() {
+		
+		Scanner scan=new Scanner(System.in)
+	}
+}

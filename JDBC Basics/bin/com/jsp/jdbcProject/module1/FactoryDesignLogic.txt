@@ -1,0 +1,5 @@
+Factory design logics
+
+1)implementing logic
+2)creation of obj logic
+3)utilasation logic

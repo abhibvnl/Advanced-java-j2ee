@@ -1,0 +1,12 @@
+package com.jsp.jdbcProject.zomato;
+
+import java.util.Scanner;
+
+public class user {
+ public static void main(String[] args) {
+	
+	 Scanner scan=new Scanner(System.in);
+	 System.out.println("enter the type of food u want to order");
+	 String food=scan.next();
+}
+}

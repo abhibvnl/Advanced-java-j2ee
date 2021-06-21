@@ -1,0 +1,9 @@
+package com.jsp.jdbcProject.zomato;
+
+public interface zomato {
+   
+	void order();
+	void upi();
+	void cod();
+	
+}

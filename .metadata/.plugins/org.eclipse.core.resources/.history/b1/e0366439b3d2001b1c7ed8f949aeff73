@@ -1,0 +1,5 @@
+package com.jsp.jdbcProject.zomato;
+
+public class bank {
+    int amount=15000;
+}

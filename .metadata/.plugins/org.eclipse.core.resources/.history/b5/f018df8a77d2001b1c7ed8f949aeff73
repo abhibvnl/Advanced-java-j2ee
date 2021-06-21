@@ -1,0 +1,8 @@
+package com.jsp.jdbcProject.module1;
+
+public class TubeLight implements Iswitch {
+   
+	public void on() {
+		System.out.println("Tublight turned on");
+	}
+}

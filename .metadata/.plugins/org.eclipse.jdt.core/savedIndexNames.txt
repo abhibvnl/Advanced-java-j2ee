@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\programs\1.FullStackDev\git\J2ee\.metadata\.plugins\org.eclipse.jdt.core
+3653583345.index
+1838171288.index
+642511589.index

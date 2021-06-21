@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JDBC Basics/src/com/jsp/jdbcProject/zomato/food.java&apos; to &apos;biriyaani.java&apos;" description="Rename resource &apos;food.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/jsp/jdbcProject/zomato/food.java" name="biriyaani.java" stamp="1624287330834" updateReferences="true"/>
+</session>

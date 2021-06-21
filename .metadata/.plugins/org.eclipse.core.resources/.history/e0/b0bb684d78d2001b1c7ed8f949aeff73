@@ -1,0 +1,6 @@
+package com.jsp.jdbcProject.module1;
+
+public class LedLight implements Iswitch {
+	   
+	
+	}

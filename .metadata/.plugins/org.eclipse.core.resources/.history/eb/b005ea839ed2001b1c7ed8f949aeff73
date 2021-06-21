@@ -1,0 +1,5 @@
+package com.jsp.jdbcProject.zomato;
+
+public interface zomato {
+
+}

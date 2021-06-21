@@ -1,0 +1,5 @@
+package com.jsp.jdbcProject.module1;
+
+public interface Iswitch {
+
+}

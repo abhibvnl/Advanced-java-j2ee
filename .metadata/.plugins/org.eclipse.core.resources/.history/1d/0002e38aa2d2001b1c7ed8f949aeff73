@@ -1,0 +1,10 @@
+package com.jsp.jdbcProject.zomato;
+
+import java.util.Scanner;
+
+public class user {
+ public static void main(String[] args) {
+	
+	 Scanner scan=new Scanner(System.in);
+}
+}

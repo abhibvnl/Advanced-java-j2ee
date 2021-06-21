@@ -1,0 +1,25 @@
+//object creation logic
+//LightFactory : helper class 
+package com.jsp.jdbcProject.module1;
+
+public class LightFactory {
+     
+  public static	Iswitch getLight (String type){
+		 
+	  if(type.equalsIgnoreCase("TubeLight")) {
+		  System.out.println("tublight Obj is Created");
+		  return new TubeLight();
+	  }
+		
+	  
+	  else if(type.equalsIgnoreCase("LedLight"))
+	  {
+		  System.out.println("Led light Obj is Created");
+		  return new LedLight();
+	  }
+	  
+	  else
+		  return null;
+	 }
+	
+}

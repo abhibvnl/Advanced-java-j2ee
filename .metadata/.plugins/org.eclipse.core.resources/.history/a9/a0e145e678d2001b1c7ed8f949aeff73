@@ -1,0 +1,10 @@
+//object creation logic
+package com.jsp.jdbcProject.module1;
+
+public class LightFactory {
+     
+	public static void main(String[] args) {
+		
+		
+	}
+}
