@@ -2,4 +2,4 @@ Factory design logics
 
 1)implementing logic
 2)creation of obj logic
-3)utilasation logic
+3)utilazation logic....
