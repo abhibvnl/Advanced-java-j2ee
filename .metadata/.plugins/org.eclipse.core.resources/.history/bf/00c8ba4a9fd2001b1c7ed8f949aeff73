@@ -1,8 +1,0 @@
-package com.jsp.jdbcProject.zomato;
-
-public class food implements zomato {
-    
-	public void order(String food) {
-		System.out.println(food + " ordered successFuly");
-	}
-}
